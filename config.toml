@@ -53,7 +53,7 @@ googleAnalytics = ""
     services = "Program"
     portfolio = "Information"
     about = "About"
-    team = "Team"
+    team = "Keynote speakers"
     contact = "Contact"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
