@@ -97,13 +97,13 @@ googleAnalytics = ""
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-laptop"
+      icon = "fa-calendar"
       title = "Program (Comming soon)"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fa-lock"
+      icon = "fas fa-file-alt"
       title = "Abstract submission"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
