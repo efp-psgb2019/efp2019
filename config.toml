@@ -49,7 +49,7 @@ googleAnalytics = ""
   [params.navigation]
     brand = "EFP & PSGB 2019"
     # Optional logo as brand stored in img/
-    logo = "logo.png"
+    logo = "logo.svg"
     services = "Program"
     portfolio = "Information"
     about = "About"
