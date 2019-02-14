@@ -91,19 +91,19 @@ googleAnalytics = ""
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fa-shopping-cart"
+      icon = "fas fa-key"
       title = "Registration"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-calendar"
-      title = "Program (Comming soon)"
+      title = "Program (Coming soon)"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
 
     [[params.services.row.list]]
-      icon = "fas fa-file-alt"
+      icon = "fas fa-edit"
       title = "Abstract submission"
       description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
       url = "#"
