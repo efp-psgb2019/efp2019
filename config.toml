@@ -25,7 +25,7 @@ googleAnalytics = ""
   # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
-  favicon    = "favicon.ico"
+  favicon    = "favicon2.ico"
 
   # Possibility to disable external/additional fonts
   # Exception: Fontawesome
@@ -173,8 +173,8 @@ googleAnalytics = ""
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "1.jpg"
-      name = "Kay Garland"
+      img = "estrada.jpg"
+      name = "Dr Alejandro Estrada"
       position = "Professor"
       reportsTo = "CTO"
       livesIn = "[Munich, Germany](#some-maps-url)"
@@ -184,8 +184,7 @@ googleAnalytics = ""
         "Open Source [community management](#)"
       ]
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
+      
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -193,9 +192,9 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "2.jpg"
-      name = "Larry Parker"
-      position = "Researcher at ..."
+      img = "erik.jpg"
+      name = "Dr Erik Meijaard"
+      position = "Founder of Borneo Futures and Center of Excellence for Environmental Decisions, University of Queensland"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
@@ -203,14 +202,26 @@ She worked at Pied Piper for years until they went belly up."""
       ]
 
     [[params.team.members]]
-      img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Researcher at ..."
+      img = "alejandra.jpg"
+      name = "Dr Alejandra Pascual-Garrido"
+      position = "Research Affiliate at ICEA, University of Oxford"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
+
+    [[params.team.members]]
+      img = "waal.jpg"
+      name = "Prof Erica Van de Waal"
+      position = "SNSF Professor, University of Lausanne, Switzerland"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+
 
   # Client section
     [params.clients_list]
