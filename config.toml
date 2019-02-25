@@ -255,7 +255,7 @@ googleAnalytics = ""
     title = "Contact us"
     subtitle  = "If you have any doubts regarding the meeting, please don't hesitate on contacting us."
     buttonText = "Send message"
-    # netlify = true
+    netlify = true
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
