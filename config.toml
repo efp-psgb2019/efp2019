@@ -172,6 +172,27 @@ googleAnalytics = ""
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+          
+    [[params.team.members]]
+      img = "waal.jpg"
+      name = "Prof Erica Van de Waal"
+      position = "SNSF Professor, University of Lausanne, Switzerland"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
+      img = "alejandra.jpg"
+      name = "Dr Alejandra Pascual-Garrido"
+      position = "Research Affiliate at ICEA, University of Oxford"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
     [[params.team.members]]
       img = "estrada.jpg"
       name = "Dr Alejandro Estrada"
@@ -191,6 +212,16 @@ googleAnalytics = ""
       ]
 
     [[params.team.members]]
+      img = "yoder.jpg"
+      name = "Prof Anne Yoder"
+      position = "Braxton Craven Professor of Evolutionary Biology, Duke University, USA"
+      social = [
+        ["fa-twitter", "#"],
+        ["fa-facebook", "#"],
+        ["fa-linkedin", "#"]
+      ]
+
+    [[params.team.members]]
       img = "erik.jpg"
       name = "Dr Erik Meijaard"
       position = "Founder of Borneo Futures and Center of Excellence for Environmental Decisions, University of Queensland"
@@ -199,28 +230,17 @@ googleAnalytics = ""
         ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
-
+      
+      
     [[params.team.members]]
-      img = "alejandra.jpg"
-      name = "Dr Alejandra Pascual-Garrido"
-      position = "Research Affiliate at ICEA, University of Oxford"
+      img = "unk.jpg"
+      name = "To announce"
+      position = "Recipient of the Osman Hill Medal 2019"
       social = [
         ["fa-twitter", "#"],
         ["fa-facebook", "#"],
         ["fa-linkedin", "#"]
       ]
-
-    [[params.team.members]]
-      img = "waal.jpg"
-      name = "Prof Erica Van de Waal"
-      position = "SNSF Professor, University of Lausanne, Switzerland"
-      social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
-      ]
-
-
 
   # Client section
     [params.clients_list]
