@@ -273,7 +273,7 @@ googleAnalytics = ""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    postURL = "https://formsubmit.io/send/info@efp-psgb2019.com"
+    postURL = "https://formsubmit.io/send/34fe1722-07b2-4816-882c-cd3e0499777a"
 
     email = "info@efp-psgb2019.com"
 
