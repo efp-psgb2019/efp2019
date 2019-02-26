@@ -275,7 +275,7 @@ googleAnalytics = ""
     # add some custom JS script to finish the implementation.
     postURL = "https://formsubmit.io/send/34fe1722-07b2-4816-882c-cd3e0499777a"
 
-    email = "info@efp-psgb2019.com"
+    # email = "info@efp-psgb2019.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
