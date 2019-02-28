@@ -50,8 +50,8 @@ googleAnalytics = ""
     brand = "EFP & PSGB 2019"
     # Optional logo as brand stored in img/
     logo = "logo.png"
-    services = "Program"
-    portfolio = "Information"
+    services = "Join us"
+    portfolio = "Conference"
     about = "About"
     team = "Keynote speakers"
     contact = "Contact"
@@ -85,28 +85,34 @@ googleAnalytics = ""
   # Services section
   [params.services]
     enable = true
-    title = "Program"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "Join us"
+    subtitle = "Here you can register as a participant or a presenter and check our program."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
-      icon = "fas fa-key"
-      title = "Registration"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
-
-    [[params.services.row.list]]
       icon = "fa-calendar"
       title = "Program (Coming soon)"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "After our scientific committee review the submitted abstracts, this will be the place to check the conference program."
+      url = "#"
+      
+    [[params.services.row.list]]
+      icon = "fas fa-key"
+      title = "Registration"
+      description = "You are required to register, if you want to participate in our conference."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fas fa-edit"
       title = "Abstract submission"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      url = "#"
+      description = "If you are interested to showcase your research, submit an abstract either as a podium, PechaKucha or a poster presentation."
+      url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
+      
+    [[params.services.row.list]]
+      icon = "fas fa-edit"
+      title = "Organize"
+      description = "Do you want to organize a symposium or a workshop during the conference? Fill out our form."
+      url = "/SimposiumSubmissionForm_EFP-PSGB2019.docx"
 
   # Portfolio section
   [params.portfolio]
@@ -127,7 +133,7 @@ googleAnalytics = ""
 
     # About section
   [params.about]
-    enable = true
+    enable = false
     title = "About"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
     endpoint = "Be part<br>of our<br>story!"
