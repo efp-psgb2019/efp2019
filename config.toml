@@ -168,7 +168,7 @@ googleAnalytics = ""
     #center = true
     title = "Keynote speakers"
     subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
+    description = "The full program will be revealed soon."
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
