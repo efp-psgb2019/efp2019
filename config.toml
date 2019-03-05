@@ -179,9 +179,8 @@ googleAnalytics = ""
       name = "Prof Erica Van de Waal"
       position = "SNSF Professor, University of Lausanne, Switzerland"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-researchgate", "https://www.researchgate.net/profile/Erica_Van_de_Waal"],
+        ["fa-university", "https://www.unine.ch/ethol/home/former-collaborators/van_de_waal_erica.html"]
       ]
 
     [[params.team.members]]
@@ -189,9 +188,8 @@ googleAnalytics = ""
       name = "Dr Alejandra Pascual-Garrido"
       position = "Research Affiliate at ICEA, University of Oxford"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-twitter", "https://twitter.com/RunnerApe"],
+        ["fa-university", "https://www.anthro.ox.ac.uk/people/dr-alejandra-pascual-garrido"]
       ]
 
     [[params.team.members]]
@@ -207,9 +205,9 @@ googleAnalytics = ""
       # For bio markdown and even multiline strings are available.
       
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-researchgate", "https://www.researchgate.net/profile/Alejandro_Estrada3"],
+        ["fa-university", "http://www.ib.unam.mx/directorio/44"],
+        ["fa-wikipedia-w", "https://en.wikipedia.org/wiki/Alejandro_Estrada"]
       ]
 
     [[params.team.members]]
@@ -217,9 +215,9 @@ googleAnalytics = ""
       name = "Prof Anne Yoder"
       position = "Braxton Craven Professor of Evolutionary Biology, Duke University, USA"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-researchgate", "https://www.researchgate.net/profile/Anne_Yoder"],
+        ["fa-university", "https://biology.duke.edu/people/anne-daphne-yoder"],
+        ["fa-wikipedia-w", "https://en.wikipedia.org/wiki/Anne_D._Yoder"]
       ]
 
     [[params.team.members]]
@@ -227,9 +225,9 @@ googleAnalytics = ""
       name = "Dr Erik Meijaard"
       position = "Founder of Borneo Futures and Center of Excellence for Environmental Decisions, University of Queensland"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-researchgate", "https://www.researchgate.net/profile/Erik_Meijaard"],
+        ["fa-twitter", "https://twitter.com/emeijaard?lang=en"],
+        ["fa-linkedin", "https://www.linkedin.com/in/erik-meijaard-4405756"]
       ]
       
       
