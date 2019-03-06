@@ -265,7 +265,7 @@ googleAnalytics = ""
         link = "http://www-3.unipv.it/webbio/efp/efp.htm"
         
       [[params.clients]]
-        logo = "psgb.jpg"
+        logo = "psgb.png"
         link = "http://www.psgb.org"
 
 
