@@ -86,26 +86,26 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "Join us"
-    subtitle = "Here you can register as a participant or a presenter and check our program."
+    subtitle = "Register as a participant or presenter and check out our program."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
       icon = "fa-calendar"
       title = "Program (Coming soon)"
-      description = "After our scientific committee review the submitted abstracts, this will be the place to check the conference program."
+      description = "After our scientific committee review submitted abstracts, you can view our programme here"
       url = "#"
       
     [[params.services.row.list]]
       icon = "fas fa-key"
       title = "Registration"
-      description = "You are required to register, if you want to participate in our conference."
+      description = "Register for the conference here."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fas fa-edit"
       title = "Abstract submission"
-      description = "If you are interested to showcase your research [click here](/abstractSubmissionForm_EFP-PSGB2019.docx). If you are interested in organizing a symposium/workshop with us [click here.](/SimposiumSubmissionForm_EFP-PSGB2019.docx)"
+      description = "If you are interested in showcasing your research [click here](/abstractSubmissionForm_EFP-PSGB2019.docx). If you are interested in organizing a symposium or workshop with us [click here.](/SymposiumSubmissionForm_EFP-PSGB2019.docx)"
       url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
 
 
@@ -117,7 +117,7 @@ googleAnalytics = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Information"
-    subtitle = "Here you can learn more details about the conference"
+    subtitle = "All the details you need about EFP-PSGB 2019"
 
     [params.portfolio.modal]
       client = "Where"
