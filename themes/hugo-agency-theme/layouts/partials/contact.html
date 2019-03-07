@@ -20,10 +20,11 @@
       <div class="col-lg-12">
         <form
           method="POST"
+          accept-charset="UTF-8"
           name="sentMessage"
           id="contactForm
           {{- if $contact.netlify -}}
-            " netlify-honeypot="bot-field" data-netlify="true"
+            " netlify
           {{- else -}}
             " action="{{- $contact.postURL | default (printf "//formspree.io/%s" (or $contact.email .Site.Params.email)) -}}"
           {{- end -}}>
