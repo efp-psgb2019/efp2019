@@ -282,7 +282,7 @@ googleAnalytics = ""
     title = "Contact us"
     subtitle  = "If you have any doubts regarding the meeting, please don't hesitate on contacting us."
     buttonText = "Send message"
-    # netlify = true
+    netlify = true
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -300,7 +300,7 @@ googleAnalytics = ""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    postURL = "https://formsubmit.io/send/34fe1722-07b2-4816-882c-cd3e0499777a"
+    # postURL = "https://formsubmit.io/send/34fe1722-07b2-4816-882c-cd3e0499777a"
 
     email = "info@efp-psgb2019.com"
 
@@ -308,8 +308,8 @@ googleAnalytics = ""
     #thanks = "Thank you for awesomely contacting us."
     #error = "Message could not be send. Please contact us at mail@example.com instead."
 
-    [params.contact.captcha]
-      sitekey = "6Lc36ZEUAAAAAH-yCmUKDqAIaRvmwiqjttQ4dxNz"
+#    [params.contact.captcha]
+#      sitekey = "6Lc36ZEUAAAAAH-yCmUKDqAIaRvmwiqjttQ4dxNz"
 
     # 'warning' defines error messages for invalid inputs
     [params.contact.form.name]

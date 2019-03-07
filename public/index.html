@@ -559,7 +559,7 @@
         <form
           method="POST"
           name="sentMessage"
-          id="contactForm" action="https://formsubmit.io/send/34fe1722-07b2-4816-882c-cd3e0499777a">
+          id="contactForm" netlify-honeypot="bot-field" data-netlify="true">
 
           <fieldset>
             <div class="row">
@@ -612,20 +612,9 @@
                   
                 </div><br />
                 
-                  <div class="g-recaptcha-container">
-                    <span class="g-recaptcha-filler"></span>
-                    <button
-                      type="submit"
-                      value="Submit"
-                      class="g-recaptcha btn btn-xl"
-                      data-sitekey="6Lc36ZEUAAAAAH-yCmUKDqAIaRvmwiqjttQ4dxNz"
-                      data-size="invisible"
-                      data-badge="inline"
-                      data-callback="onContactCaptcha">
-                      Send message
-                    </button>
-                    <span class="filler"></span>
-                  </div>
+                  <button type="submit" value="Submit" class="btn btn-xl">
+                    Send message
+                  </button>
                 
               </div>
             </div>
@@ -878,8 +867,6 @@
 
 
 
-
-  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 
 
