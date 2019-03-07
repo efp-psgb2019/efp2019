@@ -340,13 +340,13 @@ googleAnalytics = ""
       link = "https://twitter.com/efppsgb2019"
       title = "Our official twitter account"
       
-    [[params.footer.sociall]]
+    [[params.footer.social]]
       icon = "fa-link"
       link = "http://www.psgb.org/meetings.php"
       title = "Official PSGB site"
 
-    [[params.footer.sociall]]
-      icon = "hand-o-right"
+    [[params.footer.social]]
+      icon = "fa-hand-o-right"
       link = "http://www-3.unipv.it/webbio/efp/efp.htm"
       title = "Unofficial EFP site"
 
