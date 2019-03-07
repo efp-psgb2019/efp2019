@@ -175,7 +175,7 @@ googleAnalytics = ""
     #center = true
     title = "Keynote speakers"
     subtitle = "Learn about our primate heritage and legacy with a great cohort of speakers"
-    description = "The full program will be revealed soon"
+    description = "The full program will be announced soon"
 
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
