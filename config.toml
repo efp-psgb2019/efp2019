@@ -333,20 +333,20 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Published under the Apache License 2.0., website by [jcoelho.com]"
+    copyright = "Published under the Apache License 2.0., website by [jcoelho.com](http://jcoelho.com/)"
     
     [[params.footer.social]]
       icon = "fa-twitter"
       link = "https://twitter.com/efppsgb2019"
       title = "Our official twitter account"
       
-    [[params.footer.quicklinksl]]
+    [[params.footer.sociall]]
       icon = "fa-link"
       link = "http://www.psgb.org/meetings.php"
       title = "Official PSGB site"
 
-    [[params.footer.quicklinksl]]
-      icon = "hand-o-right"    
+    [[params.footer.sociall]]
+      icon = "hand-o-right"
       link = "http://www-3.unipv.it/webbio/efp/efp.htm"
       title = "Unofficial EFP site"
 
