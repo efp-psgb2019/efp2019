@@ -90,11 +90,12 @@ googleAnalytics = ""
 
     [[params.services.row]]
 
-    [[params.services.row.list]]
-      icon = "fa-calendar"
-      title = "Program (Coming soon)"
-      description = "After our scientific committee review submitted abstracts, you can view our programme here"
-      url = "#"
+# ACTIVE THIS WHEN REMOVING THE ABSTRACT SUBMISSION
+#    [[params.services.row.list]]
+#      icon = "fa-calendar"
+#      title = "Program (Coming soon)"
+#      description = "After our scientific committee review submitted abstracts, you can view our programme here"
+#      url = "#"
       
     [[params.services.row.list]]
       icon = "fas fa-key"
@@ -107,6 +108,12 @@ googleAnalytics = ""
       title = "Abstract submission"
       description = "If you are interested in showcasing your research [click here](/abstractSubmissionForm_EFP-PSGB2019.docx). If you are interested in organizing a symposium or workshop with us [click here.](/SymposiumSubmissionForm_EFP-PSGB2019.docx). If you would like to apply for a student bursary to cover registration and accommodation at the conference click here"
       url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
+      
+    [[params.services.row.list]]
+      icon = "fa-money"
+      title = "Bursaries"
+      description = "We have a limited number of bursaries for students. If you would like to apply for financial support submit the bursary form."
+      url = "/"
 
 
   # Portfolio section
