@@ -51,7 +51,7 @@ googleAnalytics = ""
     # Optional logo as brand stored in img/
     logo = "logo.png"
     services = "Join us"
-    portfolio = "Conference"
+    portfolio = "Information"
     about = "About"
     team = "Keynote speakers"
     contact = "Contact"
