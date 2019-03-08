@@ -101,7 +101,7 @@ googleAnalytics = ""
       icon = "fas fa-key"
       title = "Registration"
       description = "Register for the conference here."
-      url = "#"
+      url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
     [[params.services.row.list]]
       icon = "fas fa-edit"
