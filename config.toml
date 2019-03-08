@@ -183,7 +183,7 @@ googleAnalytics = ""
           
     [[params.team.members]]
       img = "waal.jpg"
-      name = "Prof Erica Van de Waal"
+      name = "Prof Erica van de Waal"
       position = "SNSF Professor, University of Lausanne, Switzerland"
       social = [
         ["fa-user-plus", "https://www.researchgate.net/profile/Erica_Van_de_Waal"],
