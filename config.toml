@@ -266,6 +266,10 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "SoA.png"
         link = "https://www.anthro.ox.ac.uk"
+        
+      [[params.clients]]
+        logo = "oxBrookes.png"
+        link = "https://www.brookes.ac.uk"
 
       [[params.clients]]
         logo = "EFP.png"
