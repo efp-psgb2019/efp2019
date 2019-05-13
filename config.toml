@@ -91,11 +91,11 @@ googleAnalytics = ""
     [[params.services.row]]
 
 # ACTIVE THIS WHEN REMOVING THE ABSTRACT SUBMISSION
-#    [[params.services.row.list]]
-#      icon = "fa-calendar"
-#      title = "Program (Coming soon)"
-#      description = "After our scientific committee review submitted abstracts, you can view our programme here"
-#      url = "#"
+    [[params.services.row.list]]
+      icon = "fa-calendar"
+      title = "Program (Coming soon)"
+      description = "After our scientific committee review submitted abstracts, you can view our programme here"
+      url = "#"
       
     [[params.services.row.list]]
       icon = "fas fa-key"
@@ -103,11 +103,11 @@ googleAnalytics = ""
       description = "Register for the conference here."
       url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
-    [[params.services.row.list]]
-      icon = "fas fa-edit"
-      title = "Abstract submission"
-      description = "If you are interested in showcasing your research in a presentation or poster [click here](/abstractSubmissionForm_EFP-PSGB2019.docx). If you are interested in organizing a symposium or workshop with us [click here](/SymposiumSubmissionForm_EFP-PSGB2019.docx)."
-      url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
+#    [[params.services.row.list]]
+#      icon = "fas fa-edit"
+#      title = "Abstract submission"
+#      description = "If you are interested in showcasing your research in a presentation or poster [click here](/abstractSubmissionForm_EFP-PSGB2019.docx). If you are interested in organizing a symposium or workshop with us [click here](/SymposiumSubmissionForm_EFP-PSGB2019.docx)."
+#      url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
       
     [[params.services.row.list]]
       icon = "fa-money"
