@@ -240,7 +240,7 @@ googleAnalytics = ""
       
     [[params.team.members]]
       img = "hannah.jpg"
-      name = "Professor Hannah Buchanan-Smith"
+      name = "Prof Hannah Buchanan-Smith"
       position = "Recipient of the Osman Hill Medal 2019"
       social = [
         ["fa-user-plus", "https://www.researchgate.net/profile/Hannah_Buchanan-Smith"],
