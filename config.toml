@@ -239,13 +239,13 @@ googleAnalytics = ""
       
       
     [[params.team.members]]
-      img = "unk.jpg"
-      name = "To announce"
+      img = "hannah.jpg"
+      name = "Professor Hannah Buchanan-Smith"
       position = "Recipient of the Osman Hill Medal 2019"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-user-plus", "https://www.researchgate.net/profile/Hannah_Buchanan-Smith"],
+        ["fa-linkedin", "https://uk.linkedin.com/in/hannah-buchanan-smith-a8680913"],
+        ["fa-university", "http://stir.academia.edu/HBuchananSmith"]
       ]
 
   # Client section
