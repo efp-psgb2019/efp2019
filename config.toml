@@ -229,7 +229,7 @@ googleAnalytics = ""
 
     [[params.team.members]]
       img = "erik.jpg"
-      name = "Dr Erik Meijaard"
+      name = "Prof Erik Meijaard"
       position = "Founder of Borneo Futures and Center of Excellence for Environmental Decisions, University of Queensland"
       social = [
         ["fa-user-plus", "https://www.researchgate.net/profile/Erik_Meijaard"],
