@@ -112,8 +112,8 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-money"
       title = "Bursaries"
-      description = "We have a limited number of bursaries available for students. If you would like to apply for financial support [click here](RE__Bursary_forms.zip)."
-      url = "/RE__Bursary_forms.zip"
+      description = "All bursaries have now been awarded. Congratulations to the recipients!"
+      
 
 
   # Portfolio section
