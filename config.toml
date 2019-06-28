@@ -94,8 +94,9 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fa-calendar"
       title = "Program (Coming soon)"
-      description = "You can view our programme here [click here](/abstractSubmissionForm_EFP-PSGB2019.docx)"
-      url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
+      description = "You can view our programme here (coming soon)"
+      #[click here](/abstractSubmissionForm_EFP-PSGB2019.docx)"
+      #url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
 
       
 
