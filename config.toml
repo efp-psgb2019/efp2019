@@ -93,9 +93,8 @@ googleAnalytics = ""
 # ACTIVE THIS WHEN REMOVING THE ABSTRACT SUBMISSION
     [[params.services.row.list]]
       icon = "fa-calendar"
-      title = "Programme (Coming soon)"
-      description = "You can view our programme here (coming soon)"
-      #[here](/abstractSubmissionForm_EFP-PSGB2019.docx)"
+      title = "Programme"
+      description = "You can view our preliminary programme [here](/EFP Programme.pdf)"
       #url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
 
       
