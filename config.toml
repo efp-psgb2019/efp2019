@@ -103,7 +103,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fas fa-key"
       title = "Registration"
-      description = "Register for the conference here. Please note that all Banquet Tickets have now sold out, but registration is still open for non-banquet attendees."
+      description = "Register for the conference here. Please note that all Banquet Tickets have now sold out, but registration is still open for non-banquet attendees until July 30th."
       url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
 #    [[params.services.row.list]]
