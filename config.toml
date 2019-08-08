@@ -98,13 +98,13 @@ googleAnalytics = ""
       #url = "/abstractSubmissionForm_EFP-PSGB2019.docx"
 
       
-
+# Changed and moved below sponsorship after closing registration
       
-    [[params.services.row.list]]
-      icon = "fas fa-key"
-      title = "Registration"
-      description = "Register for the conference here. Please note that all Banquet Tickets have now sold out, but registration is still open for non-banquet attendees until July 30th."
-      url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
+#    [[params.services.row.list]]
+#      icon = "fas fa-key"
+#      title = "Registration"
+#      description = "Register for the conference here. Please note that all Banquet Tickets have now sold out, but registration is still open for non-banquet attendees until July 30th."
+#      url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
 #    [[params.services.row.list]]
 #      icon = "fas fa-edit"
@@ -117,7 +117,11 @@ googleAnalytics = ""
       title = "Sponsorship"
       description = "We are grateful for the sponsorship we have received from the institutions listed at the bottom of this page. If you are interested in becoming a sponsor and advertising your organisation to our delegates, email info@efp-psgb2019.com for more information on sponsorship opportunities. "
       
-
+    [[params.services.row.list]]
+      icon = "fas fa-key"
+      title = "Registration"
+      description = "Registration closed on 30th July 2019"
+#      url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
   # Portfolio section
   [params.portfolio]
