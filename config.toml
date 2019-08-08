@@ -114,8 +114,8 @@ googleAnalytics = ""
       
     [[params.services.row.list]]
       icon = "fa-money"
-      title = "Bursaries"
-      description = "All bursaries have now been awarded. Congratulations to the recipients!"
+      title = "Sponsorship"
+      description = "We are grateful for the sponsorship we have received from the institutions listed at the bottom of this page. If you are interested in becoming a sponsor and advertising your organisation to our delegates, email info@efp-psgb2019.com for more information on sponsorship opportunities. "
       
 
 
