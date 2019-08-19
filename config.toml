@@ -288,7 +288,7 @@ googleAnalytics = ""
         link = "http://www.psgb.org"
         
       [[params.clients]]
-        logo = "karger.png"
+        logo = "karger.jpg"
         link = "http://www.karger.com/Journal/Home/223842?utm_source=banner_exchange&utm_medium=banner&utm_campaign=EFP&utm_content=Primatology"
 
 
