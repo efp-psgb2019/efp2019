@@ -120,7 +120,7 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fas fa-key"
       title = "Registration"
-      description = "Registration closed on 30th July 2019. There are a limited number of late registration tickets available here."
+      description = "Registration closed on 30th July 2019. There are a limited number of late registration tickets available [here]."
       url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
   # Portfolio section
