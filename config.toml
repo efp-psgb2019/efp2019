@@ -282,6 +282,10 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "EFP.png"
         link = "http://www-3.unipv.it/webbio/efp/efp.htm"
+      
+      [[params.clients]]
+        logo = "CUP.jpg"
+        link = "https://www.cambridge.org/"
         
       [[params.clients]]
         logo = "sthughs.png"
