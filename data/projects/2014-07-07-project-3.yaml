@@ -1,6 +1,202 @@
+#modalID: 3
+#title: General info
+#subtitle: Information about registration, abstract submission, conference facilities and more.
+#date: 2019-09
+#img: info.png
+#preview: info-preview.png
+#client: Oxford
+#clientLink: "#"
+#category: Information
+#description: >
+#  <h4>Registration</h4>
+#  You can register 
+#  <a href="https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673" target="_blank">here</a>
+#  to secure your place for the EFP-PSGB Conference 2019. 
+#  <br>There is just one ticket price for this conference; registration costs £125 and 
+#  includes a banquet at St Hugh’s College on Tuesday 10th September for the first 160 
+#  people to register. Above this limit, further registrations are welcome, but 
+#  attendees will not receive the banquet as part of their conference package. <br><br> 
+#  <h4>Abstract Submission</h4>
+#  If you are interested in showcasing your research at the conference, through a 
+#  presentation, poster, symposium, or workshop, please use the abstract submission 
+#  forms which can be downloaded from the home page of this website. Registration for 
+#  the conference is required before you can submit an abstract.
+#  <br>
+#  Abstract Guidelines and Submission<br><br>
+#  Deadline for abstract submission: 10th May<br><br>
+#  Abstracts of individual presentations either for Symposium, Podium or Poster Sessions should include:<br>
+#  • Title. With each word capitalized.<br>
+#  • Author(s) - first name, last name.<br>
+#  • Institution(s) - institution, city and country of each author and indication.<br>
+#  of which author belongs to which institution (using the superscripts a, b, c, ...).<br>
+#  • E-Mail of the first Author.<br>
+#  • The abstract should not exceed 2000 characters including spaces (approx. 350 words).
+#  <br><br>
+#  **ATTENTION:** The format should follow Folia Primatologica guidelines. 
+#  Please find examples in the following link: 
+#  <a href="http://www.karger.com/Article/Pdf/435825" target="_blank">Karger guidelines</a>
+#  <br><br>
+#  More especially, please pay attention to the following points:<br><br>
+#  •	Each word in the title starts with an upper case letter and is in bold.<br>
+#  •	Names of authors are in italics.<br>
+#  •	Indicate address for each author.<br>
+#  •	Indicate the email of the main author - just one email is needed.<br>
+#  •	No figures, tables or references are allowed.<br>
+#  •	All numbers should be numerals not written, except at the start of a sentence.<br>
+#  •	UK English should be used throughout.<br>
+#  <br><br>
+#  Studies should complied with the European Directive 2010/63/EU and/or the 
+#  International Primatological Society (IPS) Guidelines for the Use of Nonhuman 
+#  Primates in Research and, when applicable, specify the name/number of the 
+#  protocols approved by institutional/governmental committees. However, the 
+#  abstracts in Folia Primatologica don’t need to say they follow ethical guidelines.<br><br>
+#  All abstracts will be reviewed by the Scientific Committee that has the right 
+#  to either refuse an abstract that do not meet professional standards or to 
+#  designate it as oral or poster, and to choose a suitable session for its presentation. 
+#  When possible the Scientific Committee will try to comply with authors requests. <br><br>
+#  The Scientific Committee will not normally enter into correspondence with 
+#  submitting authors concerning rejected abstracts or proposals.
+#  <br><br>
+#  
+#  <h4>Information for Presenters</h4>
+#  <br>
+#  <h5>Podium and Symposium Presentations</h5>
+#  <br>
+#  Each presenter will be given a 15-minute slot, including 12 minutes of presentation and 3 
+#  minutes for questions. The chair of the session will give a 2-minute warning at the 10-minute mark. 
+#  Presentations must be in .ppt or .pptx, in the Standard (4:3) format. Please bring you presentation on 
+#  a USB drive to be uploaded to the system the day before the presentation (for all morning sessions) or 
+#  by 13:45 on the day of the presentation (for all afternoon sessions). 
+#  <br><br>
+#  <h5>Speed Presentations</h5>
+#  <br>
+#  Each speed presentation will be allocated a 5-minute slot, including 4 minutes of presentation and 1 
+#  minute for questions. It must contain exactly 12 slides (inclusive of title and acknowledgement slides), 
+#  timed at 20 seconds each. Presentations must be in .ppt or .pptx, in the Standard (4:3) format. Final 
+#  presentations must be sent to info@efp-psgb2019.com by **Aug. 30, 2019**.
+#  <br><br>
+#  <h5>Poster Presentations</h5>
+#  <br>
+#  All posters must be in A0 Portrait format. Due to the space requirements we are not able to accommodate 
+#  any other formats. Presenters are expected to print and bring their poster with them to the meeting and 
+#  are responsible for hanging their own poster on the designated board on **Monday, Sep. 9**, and for removing 
+#  them by the end of the day on **Tuesday, Sep. 10**.<br><br>
+#  There are two nearby poster printing locations in Oxford: <a href="https://www.brookes.ac.uk/brookes-print/"
+#  target="_blank">Brookes Print</a> (for Oxford Brookes), and <a href="https://www.oxford-print-centre.co.uk/"
+#  target="_blank">Oxford Print Centre </a> (for the city centre/Maths Institute). If you choose to use these 
+#  services, we recommend that you contact them in advance to ensure that your poster is printed and ready to 
+#  be picked up on time for your presentation.
+#  <br><br>
+#  
+#  
+#  <h4>Bursaries</h4>
+#  **All bursaries have now been awarded.**<br><br> 
+#  Students, if you would like to present your work at the conference but are unable to 
+#  cover the costs of registration and accommodation, there are a limited number of 
+#  bursaries available. <br><br> 
+#  <h4>Conference facilities</h4>
+#  The two full days of the conference will take place in the Mathematical Institute. 
+#  Tea, coffee, and snacks will be provided, but see 
+#  <a href="https://goo.gl/GqesMw" target="_blank">the maps</a>
+#  for restaurants and lunch spots around the venue. 
+#  <br>
+#  <a href="https://goo.gl/GqesMw" target="_blank"><img class="img-responsive img-centered" src="img/restaurants.PNG"></a>
+#  <h4>Childcare options</h4>
+#  The organising committee is conducting a brief survey to gauge interest in 
+#  childcare being provided at the conference. Please take a moment to complete
+#  <a href="https://docs.google.com/forms/d/1shTanYhHZwm-Cq5PX1pxS6xW89KgsqfIsI56_BGLwRU/viewform?edit_requested=true" target="_blank">our survey.</a>
+#  <br><br>
+#  In addition to conference-provided childcare, the buildings where the conference 
+#  will take place host a variety of facilities to make life easier for conference 
+#  attendees with young children. The Maths Institute contains nappy changing stations 
+#  and access to a quiet room upon request. The MI also contains keycard accessible 
+#  lifts which can accommodate prams. St Hugh’s College and Oxford Brookes are similarly accommodating.
+#  <br><br>
+#  Finally, Oxford Sitters, a child-minding service endorsed by the University of Oxford, 
+#  is able to provide individual childcare for parents at a charge of £15 per booking, 
+#  and an additional £10 per hour paid directly to the sitter. For more information, 
+#  please visit <a href="https://oxfordsitters.co.uk/" target="_blank">Oxford Sitters</a>. 
+#  If you have any further questions regarding  childcare, please contact us at 
+#  info@efp-psgb2019.com or using the site's contact form. 
+#  <br><br>
+#  <h4>Accessibility</h4>
+#  Both the Maths Institute and Oxford Brookes are wheelchair accessible. 
+#  Entrance to the banquet at St Hugh’s College is also accessible, although not 
+#  all accommodation is, so please request a wheelchair accessible room when you 
+#  book. All three buildings contain wheelchair accessible and gender neutral 
+#  toilets. The Maths Institute has a lift that is accessible through keycards; 
+#  please let us know if you will need to use the lift, and a keycard will be 
+#  provided to you. The Maths Institute also has hearing aid loops installed in 
+#  all lecture theatres, and a quiet room accessible upon request.<br>
+#  <br>
+#  We adhere to the PSGB policy on inclusion. You can read more about it 
+#  <a href="http://www.psgb.org/pdfs/Equality_and_diversity_statement_100417.pdf" target="_blank">here.</a>
+#  <br><br>
+#  
+#  <h4>Code of Conduct</h4>
+#  At EFP-PSGB 2019, we believe that an attending body representing diverse 
+#  backgrounds, people and topics promotes an environment of learning and knowledge 
+#  exchange. The EFP-PSGB 2019 conference operates as a platform for an open and respectful
+#  exchange and discussion of research and ideas within a respectful and tolerant community.
+#  We expect all participants to treat each other with respect and dignity, and without 
+#  discrimination or harassment of any kind.
+#  <br><br>
+#  You can learn more about our Code of Conduct [here] (/EFP-PSGB2019_CofConduct.pdf).
+#  <br><br>
+#  
+#  
+#  <h4>F.A.Q.</h4>
+#  **Are there different rates for students/members?**<br>
+#  No, all the tickets will be priced at £125 and this will be a set price that 
+#  includes the banquet for the first 160 people that register.<br>
+#  <br>
+#  **When is the deadline for registration?**<br>
+#  Registration will close when we reach capacity, so be sure to book ASAP to be 
+#  guaranteed a ticket. If you want to present your work, you must submit an 
+#  abstract by Friday 10th May.<br>
+#  <br>
+#  **Where is the banquet being held?**<br>
+#  The banquet will be held at St. Hugh’s college on St. Margaret’s Rd on Monday
+#  10th September and will be a formal 3 course dinner with drinks included. 
+#  The banquet is included in the cost of the conference ticket for the first 160 people.
+#  Unfortunately, we cannot accommodate children at the banquet.<br>
+#  <br>
+#  **What if I don’t want to attend the banquet?**<br>
+#  If you are one of the first 160 people to get a conference ticket and therefore
+#  obtain a banquet ticket, but you do not want to attend, you will be able to pass
+#  on your banquet ticket to another person who would like to go.<br>
+#  <br>
+#  **How do I travel from Oxford Brookes University to the Oxford Mathematics Department?**<br>
+#  The events at Oxford Brookes University and the Mathematics Department will be on different days,
+#  so there should be no need to travel between these places on the same day.
+#  However, depending on where you are staying you may need to use the bus services
+#  that run in Oxford. 
+#  <a href="https://city.oxfordbus.co.uk/timetables-fares/" target="_blank">OxfordBus</a> 
+#  has timetables of buses throughout Oxford and you can see the locations of Oxford Brookes University 
+#  and the Mathematics Department on the **Venues** section of our website.<br>
+#  <br>
+#  **What do I need to bring?**<br>
+#  We will not be providing water bottles or coffee cups, so we recommend that you bring
+#  these with you. Some notepads and pens will be available upon request, but they will
+#  not be distributed to each attendee<br>
+#  <br>
+#  **When are the deadlines for bursary applications and abstract submission?**<br>
+#  Bursary applications will close 5pm GMT on 1st April, 2019. The deadline for 
+#  abstract submission is Friday 10th May 2019.<br>
+#  <br>
+#  **What is the conference hashtag?**<br> 
+#  Use the hashtags #efp2019 and #efpoxford2019 to tweet about the conference. 
+#  The conference twitter account can be found at 
+#  <a href="http://twitter.com/efppsgb2019" target="_blank">@efppsgb2019</a><br>
+#  <br>
+#  **Refund policy**<br>
+#  We can refund up to 97% of the ticket price until the 1st of July.
+#  After that date we do not offer any refunds.  
+
+
 modalID: 3
-title: General info
-subtitle: Information about registration, abstract submission, conference facilities and more.
+title: For attendees
+subtitle: General information about the conference.
 date: 2019-09
 img: info.png
 preview: info-preview.png
@@ -8,187 +204,67 @@ client: Oxford
 clientLink: "#"
 category: Information
 description: >
-  <h4>Registration</h4>
-  You can register 
-  <a href="https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673" target="_blank">here</a>
-  to secure your place for the EFP-PSGB Conference 2019. 
-  <br>There is just one ticket price for this conference; registration costs £125 and 
-  includes a banquet at St Hugh’s College on Tuesday 10th September for the first 160 
-  people to register. Above this limit, further registrations are welcome, but 
-  attendees will not receive the banquet as part of their conference package. <br><br> 
-  <h4>Abstract Submission</h4>
-  If you are interested in showcasing your research at the conference, through a 
-  presentation, poster, symposium, or workshop, please use the abstract submission 
-  forms which can be downloaded from the home page of this website. Registration for 
-  the conference is required before you can submit an abstract.
+  <h4>Welcome</h4>
+  The EFP-PSGB 2019 organizing committee looks forward to welcoming you to Oxford this September. An up to date programme can be found on the home page of our website. Registration will be open from 3pm until 7pm on the first day of the conference (Sunday September 8) at Oxford Brookes and again from 8am until noon on Monday September 9 on the Mezzanine level of the Mathematical Institute.
+  <br><br> 
+  <h4>Venues</h4>
+  **Day 1** - The Terrace and Lecture Theatre, John Henry Brookes Building, Oxford Brookes University, Headington Campus, Gipsy Ln, Oxford OX3 0BP
   <br>
-  Abstract Guidelines and Submission<br><br>
-  Deadline for abstract submission: 10th May<br><br>
-  Abstracts of individual presentations either for Symposium, Podium or Poster Sessions should include:<br>
-  • Title. With each word capitalized.<br>
-  • Author(s) - first name, last name.<br>
-  • Institution(s) - institution, city and country of each author and indication.<br>
-  of which author belongs to which institution (using the superscripts a, b, c, ...).<br>
-  • E-Mail of the first Author.<br>
-  • The abstract should not exceed 2000 characters including spaces (approx. 350 words).
+  **Days 2 & 3** - Mezzanine Level, Mathematical Institute, University of Oxford, Andrew Wiles Building, Radcliffe Observatory Quarter (550), Woodstock Road, Oxford, OX2 6GG
+  <br>
+  **Day 4** - Gibbs Building, Oxford Brookes University, Headington Campus, Gipsy Ln, Oxford OX3 0BP
   <br><br>
-  **ATTENTION:** The format should follow Folia Primatologica guidelines. 
-  Please find examples in the following link: 
-  <a href="http://www.karger.com/Article/Pdf/435825" target="_blank">Karger guidelines</a>
+  For more information and maps, see our Venues page. 
   <br><br>
-  More especially, please pay attention to the following points:<br><br>
-  •	Each word in the title starts with an upper case letter and is in bold.<br>
-  •	Names of authors are in italics.<br>
-  •	Indicate address for each author.<br>
-  •	Indicate the email of the main author - just one email is needed.<br>
-  •	No figures, tables or references are allowed.<br>
-  •	All numbers should be numerals not written, except at the start of a sentence.<br>
-  •	UK English should be used throughout.<br>
+  <h4>Transport</h4>
+  <h5>To Oxford</h5>
+  **From London:** Oxford can be easily reached by trains running from London Paddington and London Marylebone. The Oxford Rail Station has easy access by foot to the city centre. Oxford can also be reached by bus via the OxfordTube or the X90 which leave from convenient central London locations including Victoria Station, Marble Arch, and Marylebone Road and finish their route at Gloucester Green Station in Oxford city centre.
+  <br>
+  **From Airports:** The Airline (run by the Oxford Bus Company) runs day and night connecting Oxford with Heathrow and Gatwick airports by bus. Stansted airport is connected to Oxford via a National Express bus (route 737). At certain times of the day, traveling from Stansted to Oxford via train through London may be more time effective. 
   <br><br>
-  Studies should complied with the European Directive 2010/63/EU and/or the 
-  International Primatological Society (IPS) Guidelines for the Use of Nonhuman 
-  Primates in Research and, when applicable, specify the name/number of the 
-  protocols approved by institutional/governmental committees. However, the 
-  abstracts in Folia Primatologica don’t need to say they follow ethical guidelines.<br><br>
-  All abstracts will be reviewed by the Scientific Committee that has the right 
-  to either refuse an abstract that do not meet professional standards or to 
-  designate it as oral or poster, and to choose a suitable session for its presentation. 
-  When possible the Scientific Committee will try to comply with authors requests. <br><br>
-  The Scientific Committee will not normally enter into correspondence with 
-  submitting authors concerning rejected abstracts or proposals.
+  <h5>Within Oxford</h5>
+  Most locations in Oxford city centre (including St Hugh’s College and the Mathematical Institute)  are easily reachable by foot. Rentable cycles are also often parked throughout and can be paid for via mobile. <a href="https://www.oxfordbus.co.uk/timetables-tickets/Oxford">The Oxford Bus Company</a> runs buses throughout Oxford day and night, providing a convenient connection between Oxford Brookes University and the city centre. 
+  <br>
+  The following buses run from city centre (near the Mathematical Institute) to Oxford Brookes (Stop B2 and B5) throughout the day:
+  <br>
+  <a href="https://assets.goaheadbus.com/media/cms_page_media/2019/7/8/city8-9_Leaflet-June2019_WEB-.pdf">Line 8 / 9</a> towards Barton/Risinghurst from Westgate Stop E2 or High Street Stop T2
+  <br>
+  <a href="https://assets.goaheadbus.com/media/cms_page_media/7005/BROOKESbus_U1_Timetable_Leaflet_DL_Vacation_-_May_2019_WEB_-_V2.pdf">U1 BrookesBus</a> towards Wheatley from High Street Stop T1
+  <br>
+  <a href="https://assets.goaheadbus.com/media/cms_page_media/2018/3/26/P%26R400_Timetable_WEB.pdf">400 Park and Ride</a> towards Thornill from St Aldates Stop G6
+  <br>
+  <a href="https://bustimes.org/services/275-high-wycombe-stokenchurch-wheatley-oxford">275</a> towards High Wycombe from High Street Stop T1
+  <br>
+  <a href="https://www.arrivabus.co.uk/beds-and-bucks/services/280-x8---sapphire---aylesbury-to-oxford/?direction=outbound">280</a> Sapphire towards Haddenham from High Street Stop T1
+  <br>
+  A map of stop locations can be found <a href="https://assets.goaheadbus.com/media/cms_page_media/2915/OBC_TransportMap_May2019_WEB.pdf">here</a>. 
   <br><br>
+  <h4>Food</h4>
+  <h5>What is provided?</h5>
+  A complimentary drink along with some nibbles will be provided during both the opening reception and the poster session. Non-alcoholic options will be available. Coffee breaks on the 9th and 10th at the Mathematical Institute will be catered and will include coffee, tea, and various snacks. In an effort to reduce our environmental impact we will not be providing water bottles and recommend that attendees bring their own reusable water bottles and/or coffee cups. 
+  <br>
+  The banquet hosted at St Hugh’s is included only in the tickets of the first 160 submitted registrations. All 160 attendees have been notified and dietary requirements requested. If you are unsure whether or not your ticket includes a banquet place, please email info@efp-psgb2019.com.
+  <h5>Other options</h5>
+  View a map of the venues and nearby food and grocery options <a href="https://drive.google.com/open?id=1vSB-okiBt0VTzoGY939YcUHql2vIvymm&usp=sharing">here</a>. 
+  <br><br>
+  <h4>Other goings on</h4>
+  <h5>St Giles' Fair</h5>
+  St Giles’ Fair will be taking place on the 9th and 10th of September near the Maths Institute. It may limit vehicular access to the conference and cyclists will also be asked to dismount to walk down St Giles’ Street. For more information about road closures and diverted public transport over the two days, please see <a href="https://www.oxford.gov.uk/info/20013/about_oxford/557/st_giles_fair/2">this page</a>.   
+  <br><br>
+  <h4>Accessibility and welfare</h4>
+  Both the Maths Institute and Oxford Brookes are wheelchair accessible. Entrance to the banquet at St Hugh’s College is also accessible, although not all accommodation is, so please request a wheelchair accessible room when you book. All three buildings contain wheelchair accessible and gender neutral toilets. The Maths Institute has a lift that is accessible through keycards; please let us know if you will need to use the lift, and a keycard will be provided to you. The Maths Institute also has hearing aid loops installed in all lecture theatres, and a quiet room accessible upon request. More information on accessibility for specific lecture rooms can be found <a href="http://conference-oxford.com/venues/conference/mathematical-institute">here</a>. For any questions regarding accessibility or welfare, please contact EFPPSGB.Welfare@gmail.com.
+  <br><br>
+  We adhere to the PSGB policy on inclusion. You can read more about it <a href="http://www.psgb.org/pdfs/Equality_and_diversity_statement_100417.pdf">here</a>. 
+  <br><br>
+  <h4>Code of conduct</h4>
+  At EFP-PSGB 2019, we believe that an attending body representing diverse backgrounds, people and topics promotes an environment of learning and knowledge exchange. The EFP-PSGB 2019 conference operates as a platform for an open and respectful exchange and discussion of research and ideas within a respectful and tolerant community. We expect all participants to treat each other with respect and dignity, and without discrimination or harassment of any kind. We will have several assigned welfare officers on site throughout the conference. We welcome attendees to discuss questions or concerns with these officers in person or by emailing EFPPSGB.Welfare@gmail.com. 
+  <br><br>
+  You can learn more about our Code of Conduct and our welfare officers <a href="https://www.efp-psgb2019.com/EFP-PSGB2019_CofConduct.pdf">here</a>. 
+  <br><br>
+  <h4>Childcare</h4>
+  Information on complimentary child care has been shared with registered attendees. If you would like more information or are interested in registering a child, please email EFPPSGB.Welfare@gmail.com. 
+  <br><br>
+  In addition to conference-provided childcare, the buildings where the conference will take place host a variety of facilities to make life easier for conference attendees with young children. The Maths Institute contains nappy changing stations and access to a quiet room upon request. The MI also contains keycard accessible lifts which can accommodate prams. St Hugh’s College and Oxford Brookes are similarly accommodating. 
+  <br><br>
+  Finally, Oxford Sitters, a child-minding service endorsed by the University of Oxford, is able to provide individual childcare for parents at a charge of £15 per booking, and an additional £10 per hour paid directly to the sitter. For more information, please visit <a href="https://oxfordsitters.co.uk/">Oxford Sitters</a>. If you have any further questions regarding childcare, please contact us at info@efp-psgb2019.com or using the site’s contact form. 
   
-  <h4>Information for Presenters</h4>
-  <br>
-  <h5>Podium and Symposium Presentations</h5>
-  <br>
-  Each presenter will be given a 15-minute slot, including 12 minutes of presentation and 3 
-  minutes for questions. The chair of the session will give a 2-minute warning at the 10-minute mark. 
-  Presentations must be in .ppt or .pptx, in the Standard (4:3) format. Please bring you presentation on 
-  a USB drive to be uploaded to the system the day before the presentation (for all morning sessions) or 
-  by 13:45 on the day of the presentation (for all afternoon sessions). 
-  <br><br>
-  <h5>Speed Presentations</h5>
-  <br>
-  Each speed presentation will be allocated a 5-minute slot, including 4 minutes of presentation and 1 
-  minute for questions. It must contain exactly 12 slides (inclusive of title and acknowledgement slides), 
-  timed at 20 seconds each. Presentations must be in .ppt or .pptx, in the Standard (4:3) format. Final 
-  presentations must be sent to info@efp-psgb2019.com by **Aug. 30, 2019**.
-  <br><br>
-  <h5>Poster Presentations</h5>
-  <br>
-  All posters must be in A0 Portrait format. Due to the space requirements we are not able to accommodate 
-  any other formats. Presenters are expected to print and bring their poster with them to the meeting and 
-  are responsible for hanging their own poster on the designated board on **Monday, Sep. 9**, and for removing 
-  them by the end of the day on **Tuesday, Sep. 10**.<br><br>
-  There are two nearby poster printing locations in Oxford: <a href="https://www.brookes.ac.uk/brookes-print/"
-  target="_blank">Brookes Print</a> (for Oxford Brookes), and <a href="https://www.oxford-print-centre.co.uk/"
-  target="_blank">Oxford Print Centre </a> (for the city centre/Maths Institute). If you choose to use these 
-  services, we recommend that you contact them in advance to ensure that your poster is printed and ready to 
-  be picked up on time for your presentation.
-  <br><br>
-  
-  
-  <h4>Bursaries</h4>
-  **All bursaries have now been awarded.**<br><br> 
-  Students, if you would like to present your work at the conference but are unable to 
-  cover the costs of registration and accommodation, there are a limited number of 
-  bursaries available. <br><br> 
-  <h4>Conference facilities</h4>
-  The two full days of the conference will take place in the Mathematical Institute. 
-  Tea, coffee, and snacks will be provided, but see 
-  <a href="https://goo.gl/GqesMw" target="_blank">the maps</a>
-  for restaurants and lunch spots around the venue. 
-  <br>
-  <a href="https://goo.gl/GqesMw" target="_blank"><img class="img-responsive img-centered" src="img/restaurants.PNG"></a>
-  <h4>Childcare options</h4>
-  The organising committee is conducting a brief survey to gauge interest in 
-  childcare being provided at the conference. Please take a moment to complete
-  <a href="https://docs.google.com/forms/d/1shTanYhHZwm-Cq5PX1pxS6xW89KgsqfIsI56_BGLwRU/viewform?edit_requested=true" target="_blank">our survey.</a>
-  <br><br>
-  In addition to conference-provided childcare, the buildings where the conference 
-  will take place host a variety of facilities to make life easier for conference 
-  attendees with young children. The Maths Institute contains nappy changing stations 
-  and access to a quiet room upon request. The MI also contains keycard accessible 
-  lifts which can accommodate prams. St Hugh’s College and Oxford Brookes are similarly accommodating.
-  <br><br>
-  Finally, Oxford Sitters, a child-minding service endorsed by the University of Oxford, 
-  is able to provide individual childcare for parents at a charge of £15 per booking, 
-  and an additional £10 per hour paid directly to the sitter. For more information, 
-  please visit <a href="https://oxfordsitters.co.uk/" target="_blank">Oxford Sitters</a>. 
-  If you have any further questions regarding  childcare, please contact us at 
-  info@efp-psgb2019.com or using the site's contact form. 
-  <br><br>
-  <h4>Accessibility</h4>
-  Both the Maths Institute and Oxford Brookes are wheelchair accessible. 
-  Entrance to the banquet at St Hugh’s College is also accessible, although not 
-  all accommodation is, so please request a wheelchair accessible room when you 
-  book. All three buildings contain wheelchair accessible and gender neutral 
-  toilets. The Maths Institute has a lift that is accessible through keycards; 
-  please let us know if you will need to use the lift, and a keycard will be 
-  provided to you. The Maths Institute also has hearing aid loops installed in 
-  all lecture theatres, and a quiet room accessible upon request.<br>
-  <br>
-  We adhere to the PSGB policy on inclusion. You can read more about it 
-  <a href="http://www.psgb.org/pdfs/Equality_and_diversity_statement_100417.pdf" target="_blank">here.</a>
-  <br><br>
-  
-  <h4>Code of Conduct</h4>
-  At EFP-PSGB 2019, we believe that an attending body representing diverse 
-  backgrounds, people and topics promotes an environment of learning and knowledge 
-  exchange. The EFP-PSGB 2019 conference operates as a platform for an open and respectful
-  exchange and discussion of research and ideas within a respectful and tolerant community.
-  We expect all participants to treat each other with respect and dignity, and without 
-  discrimination or harassment of any kind.
-  <br><br>
-  You can learn more about our Code of Conduct [here] (/EFP-PSGB2019_CofConduct.pdf).
-  <br><br>
-  
-  
-  <h4>F.A.Q.</h4>
-  **Are there different rates for students/members?**<br>
-  No, all the tickets will be priced at £125 and this will be a set price that 
-  includes the banquet for the first 160 people that register.<br>
-  <br>
-  **When is the deadline for registration?**<br>
-  Registration will close when we reach capacity, so be sure to book ASAP to be 
-  guaranteed a ticket. If you want to present your work, you must submit an 
-  abstract by Friday 10th May.<br>
-  <br>
-  **Where is the banquet being held?**<br>
-  The banquet will be held at St. Hugh’s college on St. Margaret’s Rd on Monday
-  10th September and will be a formal 3 course dinner with drinks included. 
-  The banquet is included in the cost of the conference ticket for the first 160 people.
-  Unfortunately, we cannot accommodate children at the banquet.<br>
-  <br>
-  **What if I don’t want to attend the banquet?**<br>
-  If you are one of the first 160 people to get a conference ticket and therefore
-  obtain a banquet ticket, but you do not want to attend, you will be able to pass
-  on your banquet ticket to another person who would like to go.<br>
-  <br>
-  **How do I travel from Oxford Brookes University to the Oxford Mathematics Department?**<br>
-  The events at Oxford Brookes University and the Mathematics Department will be on different days,
-  so there should be no need to travel between these places on the same day.
-  However, depending on where you are staying you may need to use the bus services
-  that run in Oxford. 
-  <a href="https://city.oxfordbus.co.uk/timetables-fares/" target="_blank">OxfordBus</a> 
-  has timetables of buses throughout Oxford and you can see the locations of Oxford Brookes University 
-  and the Mathematics Department on the **Venues** section of our website.<br>
-  <br>
-  **What do I need to bring?**<br>
-  We will not be providing water bottles or coffee cups, so we recommend that you bring
-  these with you. Some notepads and pens will be available upon request, but they will
-  not be distributed to each attendee<br>
-  <br>
-  **When are the deadlines for bursary applications and abstract submission?**<br>
-  Bursary applications will close 5pm GMT on 1st April, 2019. The deadline for 
-  abstract submission is Friday 10th May 2019.<br>
-  <br>
-  **What is the conference hashtag?**<br> 
-  Use the hashtags #efp2019 and #efpoxford2019 to tweet about the conference. 
-  The conference twitter account can be found at 
-  <a href="http://twitter.com/efppsgb2019" target="_blank">@efppsgb2019</a><br>
-  <br>
-  **Refund policy**<br>
-  We can refund up to 97% of the ticket price until the 1st of July.
-  After that date we do not offer any refunds.

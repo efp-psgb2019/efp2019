@@ -120,8 +120,8 @@ googleAnalytics = ""
     [[params.services.row.list]]
       icon = "fas fa-key"
       title = "Registration"
-      description = "Registration closed on 30th July 2019"
-#      url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
+      description = "Registration closed on 30th July 2019. There are a limited number of late registration tickets available here."
+      url = "https://www.eventbrite.co.uk/e/efp-psgb-2019-international-conference-tickets-57615219673"
 
   # Portfolio section
   [params.portfolio]
@@ -268,8 +268,8 @@ googleAnalytics = ""
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
-        logo = "sthughs.png"
-        link = "https://www.st-hughs.ox.ac.uk"
+        logo = "psgb.png"
+        link = "http://www.psgb.org"
 
       [[params.clients]]
         logo = "SoA.png"
@@ -282,10 +282,18 @@ googleAnalytics = ""
       [[params.clients]]
         logo = "EFP.png"
         link = "http://www-3.unipv.it/webbio/efp/efp.htm"
+      
+      [[params.clients]]
+        logo = "CUP.jpg"
+        link = "https://www.cambridge.org/"
         
       [[params.clients]]
-        logo = "psgb.png"
-        link = "http://www.psgb.org"
+        logo = "sthughs.png"
+        link = "https://www.st-hughs.ox.ac.uk"
+        
+      [[params.clients]]
+        logo = "karger.jpg"
+        link = "http://www.karger.com/Journal/Home/223842?utm_source=banner_exchange&utm_medium=banner&utm_campaign=EFP&utm_content=Primatology"
 
 
   # Contact section
