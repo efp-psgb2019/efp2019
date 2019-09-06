@@ -182,7 +182,7 @@ googleAnalytics = ""
     #center = true
     title = "Keynote speakers"
     subtitle = "Learn about our primate heritage and legacy with a great cohort of speakers"
-    description = "Thank you to our current sponsors: Primate Society of Great Britain; European Federation of Primatology; Oxford Brookes University; University of Oxford Anthropology; St Hugh's College, Oxford; Karger (https://www.karger.com); Cambridge University Press (https://www.cambridge.org/)."
+    description = "Thank you to our current sponsors: Primate Society of Great Britain; European Federation of Primatology; Oxford Brookes University; University of Oxford Anthropology; St Hugh's College, Oxford; Karger (https://karger.com); Cambridge University Press (https://cambridge.org/); The Carr Foundation (http://carrfoundation.org); and Jonathan Kingdon."
    
 
     # All team member's pictures are stored under 'static/img/team'.
@@ -284,7 +284,7 @@ googleAnalytics = ""
         link = "http://www-3.unipv.it/webbio/efp/efp.htm"
       
       [[params.clients]]
-        logo = "CUP.jpg"
+        logo = "CUP.png"
         link = "https://www.cambridge.org/"
         
       [[params.clients]]
@@ -292,7 +292,7 @@ googleAnalytics = ""
         link = "https://www.st-hughs.ox.ac.uk"
         
       [[params.clients]]
-        logo = "karger.jpg"
+        logo = "karger.png"
         link = "http://www.karger.com/Journal/Home/223842?utm_source=banner_exchange&utm_medium=banner&utm_campaign=EFP&utm_content=Primatology"
 
 
