@@ -320,9 +320,9 @@ googleAnalytics = ""
     # as an example the mailout plugin from caddy.
     # Provide the post URL for the form and depending on the provider
     # add some custom JS script to finish the implementation.
-    postURL = "https://formcarry.com/s/8N0Eklt63AT"
+    #postURL = "https://formcarry.com/s/8N0Eklt63AT"
 
-    email = "info@efp-psgb2019.com"
+    #email = "info@efp-psgb2019.com"
 
     # Success and error message overwrite for async contact form
     #thanks = "Thank you for awesomely contacting us."
